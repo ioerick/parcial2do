@@ -1,2 +1,2 @@
 # segundo parcial de aco
->ericka
+>erick
